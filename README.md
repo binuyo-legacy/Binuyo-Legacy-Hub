@@ -1,5 +1,4 @@
 # B.A.O Portfolio & Blog
-
 A comprehensive portfolio and blog platform built with React 19, Vite, Tailwind CSS v4, and Supabase. The application serves as a personal website for Binuyo Adegbenga Oluwatosin (B.A.O), featuring a public-facing site with a dynamic blog, portfolio showcases, and a full-fledged administrative dashboard.
 
 ## Key Features
